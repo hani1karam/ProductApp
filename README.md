@@ -1,5 +1,5 @@
 # ProductApp
-this simple demo to MVVM with TDD
+this simple demo to MVVM with TDD without any pacakges
 
 # screen of the app
 
