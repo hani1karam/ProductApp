@@ -5,7 +5,7 @@ this simple demo to MVVM with TDD
 
 * Digram 
 
-  <img align="center" width="600" height="600" img src="Screen Shot 2022-03-14 at 10.57.01 PM.png">
+  <img align="center" width="600" height="600" img src="1_Tb8dnc4-CN8ht1Sk72-Avg">
   
   # Architecture
 I choose to use MVVM (Model View View Model) separates your view (i.e. Activitys and Fragments) from your business logic. MVVM is enough for small projects, but when your codebase becomes huge, your ViewModels start bloating. Separating responsibilities becomes hard.
